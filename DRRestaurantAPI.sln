@@ -29,6 +29,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{22440F36-0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRRestaurant.Test.WebApi", "DRRestaurant.Test.WebApi\DRRestaurant.Test.WebApi.csproj", "{5C281B1B-3D79-4B2F-89AE-3014EF54A9FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRRestaurant.Test.WepApp", "DRRestaurant.Test.WepApp\DRRestaurant.Test.WepApp.csproj", "{9A9E74DF-8BB1-4040-B3CD-7F2B4D918380}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5C281B1B-3D79-4B2F-89AE-3014EF54A9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C281B1B-3D79-4B2F-89AE-3014EF54A9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C281B1B-3D79-4B2F-89AE-3014EF54A9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9E74DF-8BB1-4040-B3CD-7F2B4D918380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9E74DF-8BB1-4040-B3CD-7F2B4D918380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9E74DF-8BB1-4040-B3CD-7F2B4D918380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9E74DF-8BB1-4040-B3CD-7F2B4D918380}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +84,7 @@ Global
 		{44063C8E-F2E6-4751-8546-A28D002AFBFE} = {E201D45D-8DA2-48AC-B1F3-DB2B2363F483}
 		{22440F36-0F29-4F62-8D11-14BA1AAF127C} = {313F3564-F2A3-4BA9-9B07-1E0C460CEA1D}
 		{5C281B1B-3D79-4B2F-89AE-3014EF54A9FF} = {22440F36-0F29-4F62-8D11-14BA1AAF127C}
+		{9A9E74DF-8BB1-4040-B3CD-7F2B4D918380} = {22440F36-0F29-4F62-8D11-14BA1AAF127C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {66F51B50-2D6B-426D-9E5C-C80A4413FF5E}
